@@ -20,7 +20,7 @@ public:
 
 int main()
 {
-    int number = 1234567899;
+    int number = 34;
     Solution s{};
     std::cout << s.isPalindrome(number) << '\n';
     return 0;
